@@ -1,0 +1,2 @@
+In this small project, I created a simple recipes page that links to two recipes from the ALLRECIPES website, I made it look nice and orderly, and pushed to github when appropriate as well as having proper commit messages. 
+This project was to test everything Ive learned so far and put my own twist on it, as well as learning how to use github.
